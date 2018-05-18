@@ -1,0 +1,15 @@
+
+.container {
+	width: 600px;
+	margin: auto;
+	padding: 5px;
+	border: 1px solid #bbb;
+}
+p {
+	display: block;
+	margin: 0;
+}
+.title {
+	display: inline-block;
+	margin: 15px 0 0 0;
+}
