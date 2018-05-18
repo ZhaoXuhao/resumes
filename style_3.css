@@ -1,0 +1,42 @@
+body {
+	margin: 0;
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+}
+h1 {
+	color: #fff;
+}
+h2 {
+	margin: 0;
+}
+h1, h2, p {
+	margin-left: 10px; 
+}
+.resume {
+	background-color: #666;
+	padding: 10px;
+}
+.row {
+	height: 200px;
+	border-right: 1px solid #aaa;
+}
+.headline {
+	display: inline-block;
+	background-color: #aaa;
+	height: 200px;
+	width: 20%;
+	text-align: center;
+	float: left;
+	border-bottom: 1px solid #fff;
+	line-height: 200px;
+}
+.content {
+	display: inline-block;
+	width: 80%;
+	height: 200px;
+	float: right;
+	border-bottom: 1px solid #aaa;
+}
